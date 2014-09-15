@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="ShowProgressBar">
+    <wb-module deploy-name="Java-ShowProgressBar">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="ShowProgressBar"/>
-        <property name="java-output-path" value="/ShowProgressBar/build/classes"/>
+        <property name="java-output-path" value="/Java-ShowProgressBar/build/classes"/>
+        <property name="context-root" value="Java-ShowProgressBar"/>
     </wb-module>
 </project-modules>
